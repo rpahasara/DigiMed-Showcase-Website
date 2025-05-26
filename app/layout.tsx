@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IEMS - Intelligent EcoUrban Monitoring System",
-  description: "Revolutionary platform integrating AI, IoT, and data analytics for comprehensive urban environmental monitoring including air quality, noise pollution, green spaces, and vehicle CO₂ emissions",
+  title: "DigiMed - AI Driven Secure Data Management Systemn",
+  description: "",
 };
 
 export default function RootLayout({
