@@ -7,7 +7,7 @@ import emailjs from '@emailjs/browser';
 const socialLinks = [
     {
         name: 'GitHub Repository',
-        url: 'https://github.com/IsuruX98/Intelligent-Eco-Urban-Monitoring-System',
+        url: 'https://github.com/rpahasara/DigiMed-Secure-AI.git',
         icon: FaGithub,
     },
     {
@@ -21,12 +21,12 @@ const contactInfo = [
     {
         icon: EnvelopeIcon,
         text: 'eduforsara@gmail.com',
-        href: 'mailto:isurusanju98@gmail.com',
+        href: 'mailto:eduforsara@gmail.com',
     },
     {
         icon: PhoneIcon,
         text: '+94 76 621 7123',
-        href: 'tel:+94771886641',
+        href: 'tel:+94766217123',
     },
     {
         icon: MapPinIcon,
