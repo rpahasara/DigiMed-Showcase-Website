@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { CodeBracketIcon, CommandLineIcon, ServerIcon, DevicePhoneMobileIcon, CloudIcon, CpuChipIcon } from '@heroicons/react/24/outline';
+import { CodeBracketIcon, CommandLineIcon, ServerIcon, CloudIcon, CpuChipIcon } from '@heroicons/react/24/outline';
 import { FaPython, FaReact, FaNodeJs, FaDocker, FaAws, FaGitAlt } from 'react-icons/fa';
-import { SiTensorflow, SiMongodb, SiTailwindcss, SiFirebase } from 'react-icons/si';
+import { SiTensorflow, SiTailwindcss, SiFirebase } from 'react-icons/si';
 
 const technologyCategories = [
     {
