@@ -5,7 +5,7 @@ const milestones = [
     {
         title: 'Project Proposal',
         date: 'August 23, 2024',
-        description: 'Initial project proposal submission outlining the IEMS concept, objectives, and implementation plan.',
+        description: 'Initial project proposal submission outlining the DigiMed concept, objectives, and implementation plan.',
         status: 'completed',
         deliverables: ['Project Charter', 'Research Objectives', 'Methodology Overview']
     },
@@ -19,7 +19,7 @@ const milestones = [
     {
         title: 'Research Paper',
         date: 'February 2025',
-        description: 'Academic research paper documenting the IEMS methodology, implementation, and findings.',
+        description: 'Academic research paper documenting the DigiMed methodology, implementation, and findings.',
         status: 'completed',
         deliverables: ['Research Paper Draft', 'Experimental Results', 'Performance Analysis']
     },
@@ -33,7 +33,7 @@ const milestones = [
     {
         title: 'Website Assessment',
         date: 'April 2025',
-        description: 'Comprehensive assessment of the IEMS web platform, user interface, and functionality.',
+        description: 'Comprehensive assessment of the DigiMed web platform, user interface, and functionality.',
         status: 'completed',
         deliverables: ['Website Documentation', 'User Manual', 'Feature Demonstration']
     },
@@ -47,14 +47,14 @@ const milestones = [
     {
         title: 'Final Report',
         date: 'May 2025',
-        description: 'Comprehensive final report covering all aspects of the IEMS project from conception to completion.',
+        description: 'Comprehensive final report covering all aspects of the DigiMed project from conception to completion.',
         status: 'completed',
         deliverables: ['Final Report', 'Technical Documentation', 'Future Recommendations']
     },
     {
         title: 'Final Presentation & Viva',
         date: 'May 26, 2025',
-        description: 'Final project presentation and viva voce examination demonstrating the complete IEMS solution.',
+        description: 'Final project presentation and viva voce examination demonstrating the complete DigiMed solution.',
         status: 'pending',
         deliverables: ['Final Presentation', 'System Demonstration', 'Viva Defense']
     }
@@ -110,7 +110,7 @@ export default function Milestones() {
                         </h3>
                         <div className="bg-white/5 p-6 sm:p-8 rounded-lg border border-white/10">
                             <p className="text-gray-300 text-lg leading-relaxed text-center mb-6">
-                                IEMS project follows a structured academic timeline spanning from August 2024 to May 2025,
+                                DigiMed project follows a structured academic timeline spanning from August 2024 to May 2025,
                                 with key milestones aligned to university assessment requirements and research deliverables.
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
