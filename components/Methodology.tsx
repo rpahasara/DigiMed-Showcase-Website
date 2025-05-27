@@ -11,7 +11,7 @@ const methodologySteps = [
     {
         title: "Phase 2: AI & Blockchain Intelligence Core",
         icon: CpuChipIcon,
-        description: "Development of an LSTM-based DDoS detection model to identify abnormal traffic spikes. Deep learning classifiers (CNN, Bi-LSTM) for XSS attack prediction using encoded web payloads. Integration of blockchain smart contracts (Solidity + JWT) for secure data logging and auditability. Implementation of Zero-Knowledge Proofs (ZKP) to enhance data integrity and confidentiality.",
+        description: "Development of an LSTM-based DDoS detection model to identify abnormal traffic spikes. Deep learning classifiers (Rndom Forest, Bi-LSTM) for XSS attack prediction using encoded web payloads. Integration of blockchain smart contracts (Solidity + JWT) for secure data logging and auditability. Implementation of Zero-Knowledge Proofs (ZKP) to enhance data integrity and confidentiality.",
         color: "from-green-500 to-green-600"
     },
     {
@@ -36,7 +36,7 @@ const systemComponents = [
     },
     {
         component: "XSS Shield AI - Web Threat Intelligence",
-        description: "Advanced DL-based model for detecting Cross-Site Scripting (XSS) payloads using CNN and Bi-LSTM architectures. Enhanced input sanitization, pattern recognition, and model training on real-world datasets",
+        description: "Advanced DL-based model for detecting Cross-Site Scripting (XSS) payloads using Rndom Forest and Bi-LSTM architectures. Enhanced input sanitization, pattern recognition, and model training on real-world datasets",
         technologies: ["OpenCV", "U-Net", "HTML/JS Payload Datasets", "TensorFlow", "Python"]
     },
     {
